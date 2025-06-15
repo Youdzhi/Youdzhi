@@ -20,5 +20,3 @@ Hey! I am Youdzhi, I am a crazy developer<br>who does everything to be remembere
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-mazafaka
